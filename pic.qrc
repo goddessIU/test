@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/new_file.png</file>
+        <file>icon/build.png</file>
+        <file>icon/264251323.png</file>
+        <file>icon/bug.png</file>
+        <file>icon/run.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/save_all.png</file>
+        <file>icon/save_file.png</file>
+        <file>icon/open_file.png</file>
+    </qresource>
+</RCC>
